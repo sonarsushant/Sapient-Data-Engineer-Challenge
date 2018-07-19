@@ -12,4 +12,4 @@ In this challenge, I had to generate alerts based on sensor data. Detailed probl
 
 **Please go through following files:**
 1. Problem Statement : This file contains problem statement as well as data description.
-2. Data Pipeline Document : It gives detailed information about pipeline. I have mentioned data flow diagram, preprocessing, null value imputation and future scope.
+2. Data Pipeline Document : It has detailed information about pipeline like data flow diagram, preprocessing, null value imputation and future scope.
